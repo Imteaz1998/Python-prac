@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
+a=[1,2,4,6]
+square=[i**2 for i in a]
+print(a)
